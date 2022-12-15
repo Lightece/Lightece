@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lightece
-- 🌱 I’m currently learning software engineering in SJTU
-- 📫 zhang_yihan@sjtu.edu.cn
+- 🌱 SJTU SE undergraduate
+- 📫 lightecez@gmail.com
