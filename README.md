@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Lightece
+- 👋 Hi, I’m Lyan.
 - 🌱 SJTU SE undergraduate
 - 📫 lightecez@gmail.com
